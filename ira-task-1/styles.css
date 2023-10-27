@@ -1,0 +1,22 @@
+body{
+    padding: 3%;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+}
+
+#btn{
+    background-color: rgb(171, 14, 243);
+    padding: 1%;
+    font-size: 1.15rem;
+    border-radius: 10%;
+    border-color: white;
+    color: white;
+}
+
+#btn:hover{
+    background-color: rgb(80, 6, 115);
+    border-radius: 15%;   
+}
